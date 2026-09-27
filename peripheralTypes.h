@@ -115,6 +115,7 @@ namespace mc68k
 		Spcr0			= 0xFFC18,	// $YFFC18 QSPI Control Register 0
 		Spcr1			= 0xFFC1a,	// $YFFC1A QSPI Control Register 1
 		Spcr2			= 0xFFC1c,	// $YFFC1C QSPI Control Register 2
+		Spcr2LSB		= 0xFFC1d,
 		Spcr3			= 0xFFC1e,	// $YFFC1E QSPI Control Register 3
 		Spsr			= 0xFFC1f,	// $YFFC1F QSPI Status Register
 
